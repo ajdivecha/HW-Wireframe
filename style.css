@@ -53,6 +53,11 @@ article {
 }
 
 
+#h1 {
+	font-weight: bold;
+}
+
+
 p {
 	background-color: #ebebeb;
 	margin: 10px 10px 10px 10px;
